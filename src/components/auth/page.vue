@@ -9,7 +9,7 @@ export default {
 }
 </script>
 <style scoped>
- body {
-     background-color: red;
- }
+body {
+    background-color: blue;
+}
 </style>
