@@ -8,3 +8,6 @@ export default {
     name: 'AuthPageComponent'
 }
 </script>
+<style scoped>
+
+</style>
